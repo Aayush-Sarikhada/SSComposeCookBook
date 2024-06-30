@@ -42,13 +42,16 @@ In this repository, there are number of UI components demonstrated which can be 
 [Coming up]: #coming-up
 
 ## Prerequisites
+
 - Experience with Kotlin syntax, including lambdas
 
 ## What you'll need
+
 - [Latest Stable Android Studio](https://developer.android.com/studio)
 - [Google Maps Key](https://developers.google.com/maps/documentation/android-sdk/get-api-key)
 
 ## Setup (For Google Map Implementation)
+
 To run the google map samples, you'll have to:
 
 1. Get a Maps API key
@@ -56,20 +59,24 @@ To run the google map samples, you'll have to:
 3. Build and run
 
 ## Coming Up
+
 - Navigation
 - Theme enhancement
 
 ## Our Libraries in JetPackCompose
+
 - [SSJetPackComposeProgressButton](https://github.com/SimformSolutionsPvtLtd/SSJetPackComposeProgressButton) : SSJetPackComposeProgressButton is an elegant button with a different loading animations which makes your app attractive.
 - [SSJetpackComposeSwipeableView](https://github.com/SimformSolutionsPvtLtd/SSJetpackComposeSwipeableView) : SSJetpackComposeSwipeableView is a small library which provides support for the swipeable views. You can use this in your lazyColumns or can add a simple view which contains swipe to edit/delete functionality.
 - [SSComposeOTPPinView](https://github.com/SimformSolutionsPvtLtd/SSComposeOTPPinView) : A custom OTP view to enter a code usually used in authentication. It includes different types of OTPViews which is easy to use and configure your own view and character of OTP using all the attributes.
 
 ## Official Documentations
+
 - [Jetpack Compose](https://developer.android.com/jetpack/compose)
 - [Jetpack Compose Pathways](https://developer.android.com/courses/pathways/compose)
 - [Jetpack Compose Samples](https://github.com/android/compose-samples)
 
 ## Find this samples useful? ❤️
+
 Support it by joining __[stargazers]__ for this repository.⭐
 
 ## How to Contribute🤝
@@ -78,9 +85,11 @@ Whether you're helping us fix bugs, improve the docs, or a feature request, we'd
 Check out our __[Contributing Guide]__ for ideas on contributing.
 
 ## Bugs and Feedback
+
 For bugs, feature requests, and discussion please use __[GitHub Issues]__.
 
 ## Awesome Mobile Libraries
+
 - Check out our other available [awesome mobile libraries](https://github.com/SimformSolutionsPvtLtd/Awesome-Mobile-Libraries)
 
 ## Main Contributors
