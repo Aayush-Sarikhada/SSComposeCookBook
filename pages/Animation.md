@@ -2,8 +2,6 @@
 
 The Animations section of the Jetpack Compose Cookbook is designed to enhance your app's user experience with dynamic and engaging animations. Jetpack Compose provides a flexible and intuitive API to create a range of animations, making your UI elements not only interactive but also visually appealing.
 
-To help you choose the right animation for your needs, refer to the diagram below:
-
 | Basic | Content | Gesture |
 | -- | -- | -- |
 | <a href="/app/src/main/java/com/jetpack/compose/learning/animation/BasicAnimation.kt#L49" target="_blank"><img src="/gif/Animation/BasicAnim.gif" height="500px"/></a> | <a href="/app/src/main/java/com/jetpack/compose/learning/animation/contentAnimation/ContentIconAnimationActivity.kt#L65" target="_blank"><img src="/gif/Animation/ContentAnim.gif" height="500px"/></a>| <a href="/app/src/main/java/com/jetpack/compose/learning/animation/GestureAnimationActivity.kt" target="_blank"><img src="/gif/Animation/GestureAnim.gif" height="500px"/></a> |

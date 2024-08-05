@@ -23,23 +23,11 @@ In this repository, there are number of UI components demonstrated which can be 
 - [Swipe To Delete]
 - [Constraint Layout]
 - [Animation]
-- [SampleUI]
+- [Sample UI]
 - [Canvas]
 - [Google Maps]
 - [ViewPager]
 - [Coming up]
-
-[Components]: ./pages/Components.md
-[List]: pages/List.md
-[Pull To refresh]: pages/PullToRrefresh.md
-[Swipe To Delete]: pages/SwipeToDelete.md
-[Constraint Layout]: pages/ConstraintLayout.md
-[Animation]: pages/Animation.md
-[SampleUI]: pages/SampleUI.md
-[Canvas]: pages/Canvas.md
-[Google Maps]: pages/GoogleMaps.md
-[ViewPager]: pages/ViewPager.md
-[Coming up]: #coming-up
 
 ## Prerequisites
 
@@ -113,6 +101,7 @@ For bugs, feature requests, and discussion please use __[GitHub Issues]__.
 <br/>
 
 ## License
+
 ```
 MIT License
 
@@ -137,8 +126,22 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-   [git-repo-url]: <https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook.git>
-   [stargazers]: <https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/stargazers>
-   [Contributing Guide]: <https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/CONTRIBUTING.md>
-   [GitHub Issues]: <https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/issues>
+<!-- Links -->
+[git-repo-url]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook.git
+[stargazers]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/stargazers
+[Contributing Guide]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/CONTRIBUTING.md
+[GitHub Issues]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/issues
+
+<!-- Preview pages -->
+
+[Components]: ./pages/Components.md
+[List]: pages/List.md
+[Pull To refresh]: pages/PullToRrefresh.md
+[Swipe To Delete]: pages/SwipeToDelete.md
+[Constraint Layout]: pages/ConstraintLayout.md
+[Animation]: pages/Animation.md
+[Sample UI]: pages/SampleUI.md
+[Canvas]: pages/Canvas.md
+[Google Maps]: pages/GoogleMaps.md
+[ViewPager]: pages/ViewPager.md
+[Coming up]: #coming-up
