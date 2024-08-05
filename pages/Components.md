@@ -213,111 +213,111 @@ Checkout some other cool stuff for components of Jetpack Compose.
 
 <!-- Code Links -->
 
-[Simple App Bar with no actions]: app/src/main/java/com/jetpack/compose/learning/appbar/TopAppBarActivity.kt#L56
+[Simple App Bar with no actions]: /app/src/main/java/com/jetpack/compose/learning/appbar/TopAppBarActivity.kt#L56
 
-[App Bar with Left icon action]: app/src/main/java/com/jetpack/compose/learning/appbar/TopAppBarActivity.kt#L63
+[App Bar with Left icon action]: /app/src/main/java/com/jetpack/compose/learning/appbar/TopAppBarActivity.kt#L63
 
-[App Bar with Right icon action]: app/src/main/java/com/jetpack/compose/learning/appbar/TopAppBarActivity.kt#L81
+[App Bar with Right icon action]: /app/src/main/java/com/jetpack/compose/learning/appbar/TopAppBarActivity.kt#L81
 
-[App Bar with Right amd Left icon action]: app/src/main/java/com/jetpack/compose/learning/appbar/TopAppBarActivity.kt#L99
+[App Bar with Right amd Left icon action]: /app/src/main/java/com/jetpack/compose/learning/appbar/TopAppBarActivity.kt#L99
 
-[App Bar with multiple Right icon action]: app/src/main/java/com/jetpack/compose/learning/appbar/TopAppBarActivity.kt#L128
+[App Bar with multiple Right icon action]: /app/src/main/java/com/jetpack/compose/learning/appbar/TopAppBarActivity.kt#L128
 
-[Custom App Bar with Left icon action and Title text in Center]: app/src/main/java/com/jetpack/compose/learning/appbar/TopAppBarActivity.kt#L158
+[Custom App Bar with Left icon action and Title text in Center]: /app/src/main/java/com/jetpack/compose/learning/appbar/TopAppBarActivity.kt#L158
 
-[Bottom navigation bar]: app/src/main/java/com/jetpack/compose/learning/bottomnav/BottomNavigationActivity.kt#L69
+[Bottom navigation bar]: /app/src/main/java/com/jetpack/compose/learning/bottomnav/BottomNavigationActivity.kt#L69
 
-[Various button styles]: app/src/main/java/com/jetpack/compose/learning/button/ButtonActivity.kt#L43
+[Various button styles]: /app/src/main/java/com/jetpack/compose/learning/button/ButtonActivity.kt#L43
 
-[Check box with different styles]: app/src/main/java/com/jetpack/compose/learning/checkbox/CheckBoxActivity.kt#L50
+[Check box with different styles]: /app/src/main/java/com/jetpack/compose/learning/checkbox/CheckBoxActivity.kt#L50
 
-[Check dialog activity]: app/src/main/java/com/jetpack/compose/learning/dialog/DialogActivity.kt#L51
+[Check dialog activity]: /app/src/main/java/com/jetpack/compose/learning/dialog/DialogActivity.kt#L51
 
-[Simple dropdown]: app/src/main/java/com/jetpack/compose/learning/dropdownmenu/DropDownMenuActivity.kt#L119C16-L119C31
+[Simple dropdown]: /app/src/main/java/com/jetpack/compose/learning/dropdownmenu/DropDownMenuActivity.kt#L119C16-L119C31
 
-[Custom background color dropdown]: app/src/main/java/com/jetpack/compose/learning/dropdownmenu/DropDownMenuActivity.kt#L152C16-L152C48
+[Custom background color dropdown]: /app/src/main/java/com/jetpack/compose/learning/dropdownmenu/DropDownMenuActivity.kt#L152C16-L152C48
 
-[Custom dropdown with icons in dropdown item]: app/src/main/java/com/jetpack/compose/learning/dropdownmenu/DropDownMenuActivity.kt#L187
+[Custom dropdown with icons in dropdown item]: /app/src/main/java/com/jetpack/compose/learning/dropdownmenu/DropDownMenuActivity.kt#L187
 
-[Disable selection dropdown]: app/src/main/java/com/jetpack/compose/learning/dropdownmenu/DropDownMenuActivity.kt#L187
+[Disable selection dropdown]: /app/src/main/java/com/jetpack/compose/learning/dropdownmenu/DropDownMenuActivity.kt#L187
 
-[Simple FAB]: app/src/main/java/com/jetpack/compose/learning/floatingactionbutton/FloatingActionButtonActivity.kt#L86C15-L86C25
+[Simple FAB]: /app/src/main/java/com/jetpack/compose/learning/floatingactionbutton/FloatingActionButtonActivity.kt#L86C15-L86C25
 
-[FAB custom color]: app/src/main/java/com/jetpack/compose/learning/floatingactionbutton/FloatingActionButtonActivity.kt#L93C15-L93C31
+[FAB custom color]: /app/src/main/java/com/jetpack/compose/learning/floatingactionbutton/FloatingActionButtonActivity.kt#L93C15-L93C31
 
-[Square FAB]: app/src/main/java/com/jetpack/compose/learning/floatingactionbutton/FloatingActionButtonActivity.kt#L104
+[Square FAB]: /app/src/main/java/com/jetpack/compose/learning/floatingactionbutton/FloatingActionButtonActivity.kt#L104
 
-[Simple FAB with custom content (similar of Exntended FAB)]: app/src/main/java/com/jetpack/compose/learning/floatingactionbutton/FloatingActionButtonActivity.kt#L114C15-L114C72
+[Simple FAB with custom content (similar of Exntended FAB)]: /app/src/main/java/com/jetpack/compose/learning/floatingactionbutton/FloatingActionButtonActivity.kt#L114C15-L114C72
 
-[Extentded FAB]: app/src/main/java/com/jetpack/compose/learning/floatingactionbutton/FloatingActionButtonActivity.kt#L131
+[Extentded FAB]: /app/src/main/java/com/jetpack/compose/learning/floatingactionbutton/FloatingActionButtonActivity.kt#L131
 
-[Extentded FAB wihout icon]: app/src/main/java/com/jetpack/compose/learning/floatingactionbutton/FloatingActionButtonActivity.kt#L140
+[Extentded FAB wihout icon]: /app/src/main/java/com/jetpack/compose/learning/floatingactionbutton/FloatingActionButtonActivity.kt#L140
 
-[Extentded FAB wihout square shape]: app/src/main/java/com/jetpack/compose/learning/floatingactionbutton/FloatingActionButtonActivity.kt#L140
+[Extentded FAB wihout square shape]: /app/src/main/java/com/jetpack/compose/learning/floatingactionbutton/FloatingActionButtonActivity.kt#L140
 
-[Model drawer example]: app/src/main/java/com/jetpack/compose/learning/navigationdrawer/ModalDrawerActivity.kt#L69
+[Model drawer example]: /app/src/main/java/com/jetpack/compose/learning/navigationdrawer/ModalDrawerActivity.kt#L69
 
-[Bottom drawer example]: app/src/main/java/com/jetpack/compose/learning/navigationdrawer/BottomDrawerActivity.kt#L50
+[Bottom drawer example]: /app/src/main/java/com/jetpack/compose/learning/navigationdrawer/BottomDrawerActivity.kt#L50
 
-[Simple Radio Button with Label]: app/src/main/java/com/jetpack/compose/learning/radiobutton/RadioButtonActivity.kt#L91C20-L91C50
+[Simple Radio Button with Label]: /app/src/main/java/com/jetpack/compose/learning/radiobutton/RadioButtonActivity.kt#L91C20-L91C50
 
-[Disabled Radio Button]: app/src/main/java/com/jetpack/compose/learning/radiobutton/RadioButtonActivity.kt#L107C20-L107C41
+[Disabled Radio Button]: /app/src/main/java/com/jetpack/compose/learning/radiobutton/RadioButtonActivity.kt#L107C20-L107C41
 
-[Disabled selected Radio Button]: app/src/main/java/com/jetpack/compose/learning/radiobutton/RadioButtonActivity.kt#L121C20-L121C50
+[Disabled selected Radio Button]: /app/src/main/java/com/jetpack/compose/learning/radiobutton/RadioButtonActivity.kt#L121C20-L121C50
 
-[Custom selected color Radio Button]: app/src/main/java/com/jetpack/compose/learning/radiobutton/RadioButtonActivity.kt#L131
+[Custom selected color Radio Button]: /app/src/main/java/com/jetpack/compose/learning/radiobutton/RadioButtonActivity.kt#L131
 
-[Custom unselected color Radio Button]: app/src/main/java/com/jetpack/compose/learning/radiobutton/RadioButtonActivity.kt#L149
+[Custom unselected color Radio Button]: /app/src/main/java/com/jetpack/compose/learning/radiobutton/RadioButtonActivity.kt#L149
 
-[Continuous Slider]: app/src/main/java/com/jetpack/compose/learning/slider/SliderActivity.kt#L62
+[Continuous Slider]: /app/src/main/java/com/jetpack/compose/learning/slider/SliderActivity.kt#L62
 
-[Discrete Slider with custom color]: app/src/main/java/com/jetpack/compose/learning/slider/SliderActivity.kt#L84
+[Discrete Slider with custom color]: /app/src/main/java/com/jetpack/compose/learning/slider/SliderActivity.kt#L84
 
-[Range Continuous Slider]: app/src/main/java/com/jetpack/compose/learning/slider/SliderActivity.kt#L104
+[Range Continuous Slider]: /app/src/main/java/com/jetpack/compose/learning/slider/SliderActivity.kt#L104
 
-[Range Discrete Slider]: app/src/main/java/com/jetpack/compose/learning/slider/SliderActivity.kt#L122
+[Range Discrete Slider]: /app/src/main/java/com/jetpack/compose/learning/slider/SliderActivity.kt#L122
 
-[Different text styles]: app/src/main/java/com/jetpack/compose/learning/textstyle/SimpleTextActivity.kt#L79x  
+[Different text styles]: /app/src/main/java/com/jetpack/compose/learning/textstyle/SimpleTextActivity.kt#L79x  
 
-[Basic Textfield which does not contain placeholder or any decorations]: app/src/main/java/com/jetpack/compose/learning/textfield/TextFieldActivity.kt#L103
+[Basic Textfield which does not contain placeholder or any decorations]: /app/src/main/java/com/jetpack/compose/learning/textfield/TextFieldActivity.kt#L103
 
-[Simple textfield With label and placeholder]: app/src/main/java/com/jetpack/compose/learning/textfield/TextFieldActivity.kt#L124
+[Simple textfield With label and placeholder]: /app/src/main/java/com/jetpack/compose/learning/textfield/TextFieldActivity.kt#L124
 
-[Textfield with different coloured text input]: app/src/main/java/com/jetpack/compose/learning/textfield/TextFieldActivity.kt#L139
+[Textfield with different coloured text input]: /app/src/main/java/com/jetpack/compose/learning/textfield/TextFieldActivity.kt#L139
 
-[Simple Outlined textfield without placeholder]: app/src/main/java/com/jetpack/compose/learning/textfield/TextFieldActivity.kt#L158
+[Simple Outlined textfield without placeholder]: /app/src/main/java/com/jetpack/compose/learning/textfield/TextFieldActivity.kt#L158
 
-[Phone number textfield with max length as 10]: app/src/main/java/com/jetpack/compose/learning/textfield/TextFieldActivity.kt#L173
+[Phone number textfield with max length as 10]: /app/src/main/java/com/jetpack/compose/learning/textfield/TextFieldActivity.kt#L173
 
-[Outlined Password textfield Without label]: app/src/main/java/com/jetpack/compose/learning/textfield/TextFieldActivity.kt#L192
+[Outlined Password textfield Without label]: /app/src/main/java/com/jetpack/compose/learning/textfield/TextFieldActivity.kt#L192
 
-[Theme Activity]: app/src/main/java/com/jetpack/compose/learning/theme/ThemeActivity.kt#L58
+[Theme Activity]: /app/src/main/java/com/jetpack/compose/learning/theme/ThemeActivity.kt#L58
 
-[Zoom View Activity]: app/src/main/java/com/jetpack/compose/learning/zoomview/ZoomViewActivity.kt#L70
+[Zoom View Activity]: /app/src/main/java/com/jetpack/compose/learning/zoomview/ZoomViewActivity.kt#L70
 
-[Magnifier View]: app/src/main/java/com/jetpack/compose/learning/magnifierview/MagnifierViewActivity.kt#L90
+[Magnifier View]: /app/src/main/java/com/jetpack/compose/learning/magnifierview/MagnifierViewActivity.kt#L90
 
-[Simple text tabBar]: app/src/main/java/com/jetpack/compose/learning/tabarlayout/TabBarLayoutActivity.kt#L84
+[Simple text tabBar]: /app/src/main/java/com/jetpack/compose/learning/tabarlayout/TabBarLayoutActivity.kt#L84
 
-[Simple Icon tabBar with indicator]: app/src/main/java/com/jetpack/compose/learning/tabarlayout/TabBarLayoutActivity.kt#L06
+[Simple Icon tabBar with indicator]: /app/src/main/java/com/jetpack/compose/learning/tabarlayout/TabBarLayoutActivity.kt#L06
 
-[TabBar with text,icon,indicator and divider]: app/src/main/java/com/jetpack/compose/learning/tabarlayout/TabBarLayoutActivity.kt#L136
+[TabBar with text,icon,indicator and divider]: /app/src/main/java/com/jetpack/compose/learning/tabarlayout/TabBarLayoutActivity.kt#L136
 
-[Scrollable icon tabBar]: app/src/main/java/com/jetpack/compose/learning/tabarlayout/TabBarLayoutActivity.kt#L173
+[Scrollable icon tabBar]: /app/src/main/java/com/jetpack/compose/learning/tabarlayout/TabBarLayoutActivity.kt#L173
 
-[Scrollable tabBar with text,icon and divider]: app/src/main/java/com/jetpack/compose/learning/tabarlayout/TabBarLayoutActivity.kt#L199
+[Scrollable tabBar with text,icon and divider]: /app/src/main/java/com/jetpack/compose/learning/tabarlayout/TabBarLayoutActivity.kt#L199
 
-[Date Picker View]: app/src/main/java/com/jetpack/compose/learning/datepicker/DatePickerActivity.kt#L63
+[Date Picker View]: /app/src/main/java/com/jetpack/compose/learning/datepicker/DatePickerActivity.kt#L63
 
-[Time Picker View]: app/src/main/java/com/jetpack/compose/learning/timepicker/TimePickerActivity.kt#L66
+[Time Picker View]: /app/src/main/java/com/jetpack/compose/learning/timepicker/TimePickerActivity.kt#L66
 
-[Image Picker View]: app/src/main/java/com/jetpack/compose/learning/imagepicker/ImagePickerActivity.kt#L77
+[Image Picker View]: /app/src/main/java/com/jetpack/compose/learning/imagepicker/ImagePickerActivity.kt#L77
 
-[ParallaxEffect View]: app/src/main/java/com/jetpack/compose/learning/parallaxeffect/ParallaxEffectActivity.kt#L83
+[ParallaxEffect View]: /app/src/main/java/com/jetpack/compose/learning/parallaxeffect/ParallaxEffectActivity.kt#L83
 
-[Compose In Xml]: app/src/main/java/com/jetpack/compose/learning/xmls/ComposeInXmlViews.kt
+[Compose In Xml]: /app/src/main/java/com/jetpack/compose/learning/xmls/ComposeInXmlViews.kt
 
-[Xml in Compose]: app/src/main/java/com/jetpack/compose/learning/androidviews/AndroidViews.kt
+[Xml in Compose]: /app/src/main/java/com/jetpack/compose/learning/androidviews/AndroidViews.kt
 
 <!-- Reference Links -->
 
