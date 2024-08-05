@@ -8,3 +8,14 @@ Explore the various ways to show a list of items in Jetpack Compose and how to u
 ## LayRow/Column
 As the name suggests, the difference between LazyColumn and LazyRow is the orientation in which they lay out their items and scroll. LazyColumn produces a vertically scrolling list, and LazyRow produces a horizontally scrolling list.
 Find example of the currently shown screen here
+
+- [Lazy Row]
+
+- [Lazy Column]
+
+<!-- Code Links -->
+
+[Lazy Row]: /app/src/main/java/com/jetpack/compose/learning/list/LazyColumnRowActivity.kt#L111 
+
+[Lazy Column]: /app/src/main/java/com/jetpack/compose/learning/list/LazyColumnRowActivity.kt#L82
+
