@@ -13,9 +13,22 @@ Find example of the currently shown screen here
 
 - [Lazy Column]
 
+## Lazy Vertical Grid
+The LazyVerticalGrid composable provides support for displaying items in a grid. A Lazy vertical grid will display its items in a vertically scrollable container, spanned across multiple columns.
+
+- [Lazy Vertical Grid]
+
+## Advance List 
+For implementing an advanced list, data can be efficiently retrieved from remote APIs, processed using Kotlin Flows for reactive data handling, and then displayed using the Paging library to ensure smooth and performant data loading. This approach allows for dynamic content updates, seamless pagination, and an overall optimized user experience.
+
+- [Advance List]
+
 <!-- Code Links -->
 
 [Lazy Row]: /app/src/main/java/com/jetpack/compose/learning/list/LazyColumnRowActivity.kt#L111 
 
 [Lazy Column]: /app/src/main/java/com/jetpack/compose/learning/list/LazyColumnRowActivity.kt#L82
 
+[Lazy Vertical Grid]: /app/src/main/java/com/jetpack/compose/learning/list/LazyGridActivity.kt#L109
+
+[Advance List]: /app/src/main/java/com/jetpack/compose/learning/list/advancelist/MovieList.kt
