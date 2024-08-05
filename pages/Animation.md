@@ -59,27 +59,27 @@ Shimmer animations add a polished touch to loading states, creating an engaging 
 
 <!-- Code Links -->
 
-[AnimateAsStateChangeColor]: app/src/main/java/com/jetpack/compose/learning/animation/basic/ChangeColorAnimationWithState.kt#L27
+[AnimateAsStateChangeColor]: /app/src/main/java/com/jetpack/compose/learning/animation/basic/ChangeColorAnimationWithState.kt#L27
 
-[AnimateAsStateChangeColorWithSize]: app/src/main/java/com/jetpack/compose/learning/animation/basic/ChangeColorAnimationWithState.kt#L50
+[AnimateAsStateChangeColorWithSize]: /app/src/main/java/com/jetpack/compose/learning/animation/basic/ChangeColorAnimationWithState.kt#L50
 
-[AnimatedVisibilityDemo]: app/src/main/java/com/jetpack/compose/learning/animation/basic/VisibilityAnimation.kt#L34
+[AnimatedVisibilityDemo]: /app/src/main/java/com/jetpack/compose/learning/animation/basic/VisibilityAnimation.kt#L34
 
-[RotatingSquareComponent]: app/src/main/java/com/jetpack/compose/learning/animation/basic/RotateViewAnimation.kt#L23
+[RotatingSquareComponent]: /app/src/main/java/com/jetpack/compose/learning/animation/basic/RotateViewAnimation.kt#L23
 
-[ContentWithIconAnimation]: app/src/main/java/com/jetpack/compose/learning/animation/contentAnimation/ContentIconAnimationActivity.kt#L88
+[ContentWithIconAnimation]: /app/src/main/java/com/jetpack/compose/learning/animation/contentAnimation/ContentIconAnimationActivity.kt#L88
 
-[ContentAnimation]: app/src/main/java/com/jetpack/compose/learning/animation/contentAnimation/ContentAnimation.kt#L40
+[ContentAnimation]: /app/src/main/java/com/jetpack/compose/learning/animation/contentAnimation/ContentAnimation.kt#L40
 
-[TabFloatingActionButton]: app/src/main/java/com/jetpack/compose/learning/animation/contentAnimation/FabButtonWithContent.kt#L21
+[TabFloatingActionButton]: /app/src/main/java/com/jetpack/compose/learning/animation/contentAnimation/FabButtonWithContent.kt#L21
 
-[SwipeToDelete]: app/src/main/java/com/jetpack/compose/learning/animation/SwipeToDelete.kt#L53
+[SwipeToDelete]: /app/src/main/java/com/jetpack/compose/learning/animation/SwipeToDelete.kt#L53
 
-[InfiniteAnimation]: app/src/main/java/com/jetpack/compose/learning/animation/InfiniteTransitionActivity.kt#L59
+[InfiniteAnimation]: /app/src/main/java/com/jetpack/compose/learning/animation/InfiniteTransitionActivity.kt#L59
 
-[ShimmerAnimation]: app/src/main/java/com/jetpack/compose/learning/animation/ShimmerAnimationActivity.kt
+[ShimmerAnimation]: /app/src/main/java/com/jetpack/compose/learning/animation/ShimmerAnimationActivity.kt
 
-[TabBar]: app/src/main/java/com/jetpack/compose/learning/animation/Tabbar.kt
+[TabBar]: /app/src/main/java/com/jetpack/compose/learning/animation/Tabbar.kt
 
 <!-- Reference Links -->
 
