@@ -10,3 +10,5 @@ A Guideline is an invisible, positionable line that can be used to position and 
 ## Barrier
 A Barrier is a dynamic line that automatically positions itself based on the size of one or more views. Unlike a Guideline, a Barrier's position can change based on the size and content of the views it references.
 
+## Chain
+In ConstraintLayout, a chain is a group of views that are linked together to create flexible and dynamic layouts. By creating a chain, you can control the distribution of space and alignment of multiple views along a single axis (horizontal or vertical). Chains can be configured to distribute space equally, spread out, or to align views based on their size, helping to create responsive layouts that adapt to different screen sizes and orientations.

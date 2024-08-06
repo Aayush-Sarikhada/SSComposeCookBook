@@ -140,7 +140,7 @@ SOFTWARE.
 [Swipe To Delete]: pages/SwipeToDelete.md
 [Constraint Layout]: pages/ConstraintLayout.md
 [Animation]: pages/Animation.md
-[Sample UI]: pages/SampleUI.md
+[Sample UI]: pages/InstagramCloneUI
 [Canvas]: pages/Canvas.md
 [Google Maps]: pages/GoogleMaps.md
 [ViewPager]: pages/ViewPager.md

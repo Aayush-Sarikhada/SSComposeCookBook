@@ -1,4 +1,6 @@
-# Sample UI
+# Instagram Clone UI
+
+The UI of the Instagram clone features a login screen with fields for username and password, and a home screen displaying a feed of posts with images and captions. The design focuses on the layout and visual style.
 
 | Instagram |
 | -- |
