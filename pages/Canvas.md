@@ -92,61 +92,61 @@ Draw ester egg animation.
 
 <!-- Code Links -->
 
-[Line Shape]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasShapesActivity.kt#L99
+[Line Shape]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasShapesActivity.kt#L99
 
-[Circle Shape]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasShapesActivity.kt#L219
+[Circle Shape]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasShapesActivity.kt#L219
 
-[Arc Shape]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasShapesActivity.kt#L319
+[Arc Shape]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasShapesActivity.kt#L319
 
-[Rectangle Shape]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasShapesActivity.kt#L438
+[Rectangle Shape]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasShapesActivity.kt#L438
 
-[Outline Shape]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasShapesActivity.kt#L544
+[Outline Shape]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasShapesActivity.kt#L544
 
-[Text]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasTextImageActivity.kt#
+[Text]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasTextImageActivity.kt#
 
-[Image 1]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasTextImageActivity.kt#L207
+[Image 1]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasTextImageActivity.kt#L207
 
-[Image 2]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasTextImageActivity.kt#L291
+[Image 2]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasTextImageActivity.kt#L291
 
-[Basic Path]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasPathsActivity.kt#L95
+[Basic Path]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasPathsActivity.kt#L95
 
-[With Shapes]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasPathsActivity.kt#L202
+[With Shapes]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasPathsActivity.kt#L202
 
-[Any Polygon]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasPathsActivity.kt#L315
+[Any Polygon]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasPathsActivity.kt#L315
 
-[Any Polygon With Progress]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasPathsActivity.kt#L432
+[Any Polygon With Progress]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasPathsActivity.kt#L432
 
-[Path Operations]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasPathOperationActivity.kt#L90
+[Path Operations]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasPathOperationActivity.kt#L90
 
-[Insets]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasDrawScopeOperationActivity.kt#L117
+[Insets]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasDrawScopeOperationActivity.kt#L117
 
-[Translate]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasDrawScopeOperationActivity.kt#L158
+[Translate]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasDrawScopeOperationActivity.kt#L158
 
-[Rotate]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasDrawScopeOperationActivity.kt#L188
+[Rotate]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasDrawScopeOperationActivity.kt#L188
 
 
-[Clip Path]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasDrawScopeOperationActivity.kt#L225
+[Clip Path]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasDrawScopeOperationActivity.kt#L225
 
-[Clip Rect]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasDrawScopeOperationActivity.kt#L298
+[Clip Rect]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasDrawScopeOperationActivity.kt#L298
 
-[With Drag]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasTouchOperationActivity.kt#L130
+[With Drag]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasTouchOperationActivity.kt#L130
 
-[With Pointer Loop]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasTouchOperationActivity.kt#L222
+[With Pointer Loop]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasTouchOperationActivity.kt#L222
 
-[On Image]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasTouchOperationActivity.kt#:312
+[On Image]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasTouchOperationActivity.kt#:312
 
-[With Shapes]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasBlendModesActivity.kt#L126
+[With Shapes]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasBlendModesActivity.kt#L126
 
-[With Shape and Image]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasBlendModesActivity.kt#L160
+[With Shape and Image]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasBlendModesActivity.kt#L160
 
-[With Shape and Image 2]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasBlendModesActivity.kt#L209
+[With Shape and Image 2]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasBlendModesActivity.kt#L209
 
-[With Images]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasBlendModesActivity.kt#L286
+[With Images]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasBlendModesActivity.kt#L286
 
-[Basic Example]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/BasicCanvasExampleActivity.kt#L131
+[Basic Example]: /app/src/main/java/com/jetpack/compose/learning/canvas/BasicCanvasExampleActivity.kt#L131
 
-[Progress Indicator]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/BasicCanvasExampleActivity.kt#L178
+[Progress Indicator]: /app/src/main/java/com/jetpack/compose/learning/canvas/BasicCanvasExampleActivity.kt#L178
 
-[Gauge Meter]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/BasicCanvasExampleActivity.kt#L231
+[Gauge Meter]: /app/src/main/java/com/jetpack/compose/learning/canvas/BasicCanvasExampleActivity.kt#L231
 
-[Easter Egg]: https://github.com/SimformSolutionsPvtLtd/SSComposeCookBook/blob/main/app/src/main/java/com/jetpack/compose/learning/canvas/CanvasAndroidEasterEggActivity.kt#L95
+[Easter Egg]: /app/src/main/java/com/jetpack/compose/learning/canvas/CanvasAndroidEasterEggActivity.kt#L95
